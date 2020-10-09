@@ -1,0 +1,14 @@
+CharFar | Messenger
+Hello
+Enter
+Login
+Password
+Enter
+Guest
+Name
+Enter
+Registration
+Login
+E-mail
+Next
+ChatFar - new messenger
